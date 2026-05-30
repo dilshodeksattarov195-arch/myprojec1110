@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricspync",
+        "uuid": 4189140,
+        "checksum": "l25bh9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
